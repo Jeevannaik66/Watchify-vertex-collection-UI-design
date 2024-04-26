@@ -33,9 +33,8 @@ Feel free to explore the Watchify Vertex Collection UI Design concept to gain in
 
 ## Technologies Used
 
-- Design Tools: Adobe XD, Figma, Sketch
-- Graphics Editing: Adobe Photoshop, Illustrator
-- Prototyping: InVision, Marvel, Proto.io
+- Design Tools: Figma
+- Graphics Editing: Canva
 
 ## Contributing
 
