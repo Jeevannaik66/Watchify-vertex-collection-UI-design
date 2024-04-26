@@ -25,7 +25,7 @@ The Watchify Vertex Collection UI Design offers a glimpse into the sophisticated
 
 ## Screenshots
 
-
+![UI Design](https://github.com/Jeevannaik66/Watchify-vertex-collection-UI-design/assets/117274229/111a24e1-583a-4706-9146-00a27805b2b4)
 
 ## Usage
 
